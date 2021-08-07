@@ -1,0 +1,117 @@
+[{
+    "id":1,
+    "sub_category":"Apple"
+},
+{
+    "id":2,
+    "sub_category":"Samsung"
+
+},
+{
+    "id":3,
+    "sub_category":"Xiaomi"
+
+},
+{
+    "id":4,
+    "sub_category":"Vivo"
+},
+
+{
+    "id":5,
+    "sub_category":"Oppo"
+
+},
+{
+    "id":6,
+    "sub_category":"Oppo"
+
+},
+{
+    "id":7,
+    "sub_category":"shirts"
+},
+{
+    "id":8,
+    "sub_category":"Jeans"
+},
+{
+    "id":9,
+    "sub_category":"T-shirts"
+},{
+    "id":10,
+    "sub_category":"Footwear Slippers"
+},
+{
+    "id":11,
+    "sub_category":"Footwear Shoes"
+},
+{
+    "id":12,
+    "sub_category":"Tops"
+}, 
+{
+    "id":13,
+    "sub_category":"skirts"
+},
+{
+    "id":14,
+    "sub_category":"Footwear"
+},
+{
+    "id":15,
+    "sub_category":"Toys"
+},
+{
+    "id":16,
+    "sub_category":"Dresses"
+},
+{
+    "id":17,
+    "sub_category":"Mens beauty"
+},
+{
+    "id":18,
+    "sub_category":"womens beauty"
+},
+{
+    "id":19,
+    "sub_category":"Inspirational books"
+},
+{
+    "id":20,
+    "sub_category":"Competetive exam"
+},
+{
+    "id":21,
+    "sub_category":"Homeitems"
+},
+{
+    "id":22,
+    "sub_category":"school &collegebags"
+},
+{
+    "id":23,
+    "sub_category":"Travelbags"
+},
+{
+    "id":24,
+    "sub_category":"Handbags"
+},
+{
+    "id":24,
+    "sub_category":"Homeitems"
+
+}
+
+
+
+
+
+
+
+
+
+
+
+]

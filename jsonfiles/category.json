@@ -1,0 +1,43 @@
+[{
+    "id":1,
+    "category":"mobile"
+},
+{
+    "id":2,
+    "category":"Mens"
+
+},
+{
+    "id":3,
+    "category":"Womens"
+
+},
+{
+    "id":4,
+    "category":"Kids"
+},
+{
+    "id":5,
+    "category":"beauty"
+},
+
+{
+    "id":6,
+    "category":"books"
+},
+{
+    "id":7,
+    "category":"Electronics"
+},
+{
+    "id":8,
+    "category":"bags"
+},
+{
+    "id":9,
+    "category":"furnitures"
+}
+
+
+
+]
